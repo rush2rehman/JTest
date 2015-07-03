@@ -4,7 +4,7 @@ public class HelloWorld {
 	public static void main(String s[])
 	{
 		
-		System.out.println("Irfana 1");
+		System.out.println("");
 	}
 
 }
